@@ -1,5 +1,5 @@
-# multi_season_analysis
-Multi-season analysis of Field Scanalyzer, soil water content, and AZMET information.
+# Multi-season Analysis of Field Scanalyzer, Soil Water Content, and AZMET Information
+This set of code runs multi-season analysis of lettuce data. This can be refactored to run on other crop species grown under the Field Scanalyzer.
 
 Each file does the following:
 - azmet.ipynb: Visualizes AZMET data across multiple seasons. To download AZMET data, [click here](https://ag.arizona.edu/azmet/06.htm).
